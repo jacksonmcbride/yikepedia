@@ -1,0 +1,32 @@
+body {
+  font-family: Georgia, serif;
+  background: #f8f9fa;
+  color: #202122;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+h1 a {
+  color: #3366cc;
+  text-decoration: none;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+nav li {
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

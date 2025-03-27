@@ -1,0 +1,19 @@
+title: Yikepedia
+description: The Official Encyclopedia of Yike
+baseurl: ""
+url: "https://yikepedia.github.io"
+
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: default
+
+markdown: kramdown
+theme: null

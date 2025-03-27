@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} - Yikepedia</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">Yikepedia</a></h1>
+      {% include nav.html %}
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <hr>
+      <p><em>Built with love for Yike 💚</em></p>
+    </footer>
+  </body>
+</html>
