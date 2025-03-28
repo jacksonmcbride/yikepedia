@@ -5,10 +5,10 @@ title: Home
 
 # Welcome to Yikepedia 🐸
 
-Explore the mysterious, magical, and music-loving world of Yike.
+Does Claire give you dope reccomendations? Do you find yourself looking a way to get everything and not miss a beat. Look no further than the Yikepedia. Here we have currated all the dope places that Claire has reccomended or suggested. Take a look around: you will certainly find something worth checking out. 
 
 ## Featured Articles
 
-- [Who is Yike?](/articles/yike)
-- [Yike's Music Taste](/articles/music)
-- [Historical Lore of Yike](/articles/lore)
+- [Schmucks](/articles/Schmucks)
+- [Manjul](/articles/manjul/)
+- [Effy's Cafe](/articles/effys)

@@ -1,0 +1,23 @@
+<div class="infobox">
+    {% if page.image %}
+      <div class="infobox-image">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
+      </div>
+    {% endif %}
+  
+    {% if page.caption %}
+      <div class="infobox-caption">
+        {{ page.caption }}
+      </div>
+    {% endif %}
+  
+    <table class="infobox-table">
+      {% for row in page.infobox %}
+        <tr>
+          <th>{{ row.label }}</th>
+          <td>{{ row.value }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+  
