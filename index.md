@@ -9,6 +9,6 @@ Does Claire give you dope reccomendations? Do you find yourself looking a way to
 
 ## Featured Articles
 
-- [Schmucks](/articles/Schmucks)
+- [Schmucks](/articles/schmucks)
 - [Manjul](/articles/manjul/)
 - [Effy's Cafe](/articles/effys)
