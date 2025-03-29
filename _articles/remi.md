@@ -1,6 +1,6 @@
 ---
-layout: default
 title: remi43
+layout: default
 image: /assets/img/remi43.jpg
 image_alt: Lavender latte on a flower-covered counter
 caption: Lavender latte at Remi43, surrounded by greenery

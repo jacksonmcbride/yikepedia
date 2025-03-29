@@ -1,5 +1,6 @@
 ---
 title: Ruby's Cafe
+layout: default
 image: /assets/img/rubys.jpg
 image_alt: Exterior of Ruby's Cafe
 caption: Ruby's Cafe in Nolita, Manhattan

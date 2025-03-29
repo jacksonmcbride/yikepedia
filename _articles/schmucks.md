@@ -1,5 +1,6 @@
 ---
 title: Schmucks
+layout: default
 image: /assets/img/schmucks.jpg
 image_alt: Exterior of Schmucks being constructed
 caption: Exterior of Schmucks being constructed

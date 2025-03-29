@@ -1,5 +1,6 @@
 ---
 title: Madame Vo
+layout: default
 image: /assets/img/madamevo.jpg
 image_alt: Bowl of Tet Noodles and Beef Pho
 caption: Tet Noodles 

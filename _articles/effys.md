@@ -1,5 +1,6 @@
 ---
 title: Effy's Cafe
+layout: default
 image: /assets/img/effys.jpg
 image_alt: Exterior of Effy's Cafe
 caption: Effy's Cafe on the Upper East Side, NYC

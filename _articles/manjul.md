@@ -1,5 +1,6 @@
 ---
 title: manjul
+layout: default
 image: /assets/img/manjul.jpg
 image_alt: Interior of Manjul, with central tree and modern seating
 caption: Manjul’s signature tree-centered layout and clean interior design

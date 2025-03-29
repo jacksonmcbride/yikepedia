@@ -1,5 +1,6 @@
 ---
 title: Da Capo
+layout: default
 image: /assets/img/dacapo.jpg
 image_alt: Interior of Da Capo with skylit back room
 caption: The rear seating area at Da Capo, ideal for a quiet afternoon
