@@ -1,6 +1,6 @@
 title: Yikepedia
 description: The Official Encyclopedia of Yike
-baseurl: ""
+baseurl: "/yikepedia" # Note: no trailing slash
 url: "https://yikepedia.github.io"
 
 collections:
