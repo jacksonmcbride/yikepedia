@@ -1,5 +1,6 @@
 ---
 title: The Claire List of Restaurants
+layout: default
 ---
 
 # Restaurant List
@@ -8,7 +9,6 @@ Claire somehow has all the best recommendations you could ever imagine. Below ar
 
 ## Known Bangers
 
-- [Ruby's Cafe](/articles/rubys-cafe)
-- [Effy's Cafe](/articles/effys)
-- [Madame Vo's](/articles/madame-vos)
-
+- [Ruby's Cafe]({{ '/articles/rubys-cafe' | relative_url }})
+- [Effy's Cafe]({{ '/articles/effys' | relative_url }})
+- [Madame Vo's]({{ '/articles/madame-vos' | relative_url }})

@@ -1,5 +1,6 @@
 ---
 title: Cafes
+layout: default
 ---
 
 # Cafe List
@@ -8,6 +9,6 @@ Cafes are Claire’s specialty. If she recommends one, you should probably go. H
 
 ## Known Bangers
 
-- [Remi43](/articles/remi/)
-- [Manjul](/articles/manjul/)
-- [Da Capo](/articles/dacapo/)
+- [Remi43]({{ '/articles/remi/' | relative_url }})
+- [Manjul]({{ '/articles/manjul/' | relative_url }})
+- [Da Capo]({{ '/articles/dacapo/' | relative_url }})
