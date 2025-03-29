@@ -1,19 +1,31 @@
 title: Yikepedia
 description: The Official Encyclopedia of Yike
-baseurl: "/yikepedia" # Note: no trailing slash
-url: "https://yikepedia.github.io"
 
+# Site URLs for GitHub Pages project site
+url: "https://jacksonmcbride.github.io" # Your GitHub Pages domain (no trailing slash)
+baseurl: "/yikepedia"                   # Repo name prefixed with a slash
+
+# Custom collections (e.g., for articles)
 collections:
   articles:
     output: true
     permalink: /:collection/:name
 
+# Default layout for collection items
 defaults:
   - scope:
       path: ""
-      type: "articles"
+      type: articles
     values:
       layout: default
 
+# Markdown engine
 markdown: kramdown
+
+# You're writing your own layout/styles, so don't use a Jekyll theme
 theme: null
+
+# Optional: Include plugins if needed (leave commented for now)
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
