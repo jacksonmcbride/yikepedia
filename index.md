@@ -10,5 +10,5 @@ Does Claire give you dope recommendations? Do you find yourself looking for a wa
 ## Featured Articles
 
 - [Schmucks]({{ '/articles/schmucks' | relative_url }})
-- [Manjul]({{ '/articles/manjul/' | relative_url }})
+- [Manjul]({{ '/articles/manjul' | relative_url }})
 - [Effy's Cafe]({{ '/articles/effys' | relative_url }})
