@@ -12,3 +12,4 @@ Claire somehow has all the best recommendations you could ever imagine. Below ar
 - [Ruby's Cafe]({{ '/articles/rubys-cafe' | relative_url }})
 - [Effy's Cafe]({{ '/articles/effys' | relative_url }})
 - [Madame Vo's]({{ '/articles/madame-vos' | relative_url }})
+- [Menkoi Sato]({{ '/articles/menkoi' | relative_url }})
