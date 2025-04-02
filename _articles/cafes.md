@@ -1,6 +1,8 @@
 ---
 title: Cafes
 layout: default
+image: /assets/img/cafes.jpg
+caption: Claire is a cafe expert. You are not going to want to miss these. 
 ---
 
 # Cafe List

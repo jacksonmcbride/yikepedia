@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+<div style="background-color:#ffffcc; border:1px solid #aaa; padding:4px; font-size:12px; font-family:Verdana, Geneva, Tahoma, sans-serif; color:#333; margin-bottom:15px;">
+  <marquee behavior="scroll" direction="left" scrollamount="5" style="white-space:nowrap;">
+    🎉 <strong>Congratulations Claire</strong> on securing the <em>H1B visa</em> — the journey continues 🇺🇸
+  </marquee>
+</div>
+
 # 🐸 Welcome to **Yikepedia**
 
 _An encyclopedia for the culture, informed by Claire._
@@ -28,29 +34,20 @@ Does Claire give you some fire reccomendations? Do you find yourself taking note
 
 <table class="featured-table">
   <tr>
+    {% assign shuffled_articles = site.articles | sample: 3 %}
+    {% for article in shuffled_articles %}
     <td>
-      <a href="{{ '/articles/schmucks' | relative_url }}">
-        <img src="{{ '/assets/img/schmucks.jpg' | relative_url }}" alt="Schmucks" />
-        <div class="caption">Schmucks</div>
-      </a>
-      <p>Unhinged energy, perfect cocktails, dangerously fun.</p>
+      <img src="{{ article.image | relative_url }}" alt="{{ article.image_alt }}">
+      <div class="caption">
+        <a href="{{ article.url | relative_url }}">{{ article.title }}</a>
+      </div>
+      <p>{{ article.excerpt | strip_html | truncate: 120 }}</p>
     </td>
-    <td>
-      <a href="{{ '/articles/manjul' | relative_url }}">
-        <img src="{{ '/assets/img/manjul.jpg' | relative_url }}" alt="Manjul" />
-        <div class="caption">Manjul</div>
-      </a>
-      <p>Minimalist café meets high-concept fashion. Also: pineapple fizz.</p>
-    </td>
-    <td>
-      <a href="{{ '/articles/effys' | relative_url }}">
-        <img src="{{ '/assets/img/effys.jpg' | relative_url }}" alt="Effy's Cafe" />
-        <div class="caption">Effy's Cafe</div>
-      </a>
-      <p>Cozy mornings, hash browns that will make you believe again.</p>
-    </td>
+    {% endfor %}
   </tr>
 </table>
+
+
 
 ---
 

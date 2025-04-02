@@ -1,6 +1,8 @@
 ---
 title: Bars
 layout: default
+image: /assets/img/bars.jpg
+caption: Looking for some neat bars? Click here.
 ---
 
 # Bar List

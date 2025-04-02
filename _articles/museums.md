@@ -1,6 +1,8 @@
 ---
 title: Museums
 layout: default
+image: /assets/img/museums.jpg
+caption: Fine arts and culture!
 ---
 
 # Museum List

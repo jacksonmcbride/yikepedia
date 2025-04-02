@@ -1,6 +1,8 @@
 ---
-title: The Claire List of Restaurants
+title: Restaraunts
 layout: default
+image: /assets/img/restaraunts.jpg
+caption: Check out the restaraunts that Claire suggested. 
 ---
 
 # Restaurant List
