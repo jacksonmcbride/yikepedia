@@ -15,3 +15,5 @@ Cafes are Claire’s specialty. If she recommends one, you should probably go. H
 - [Manjul]({{ '/articles/manjul' | relative_url }})
 - [Da Capo]({{ '/articles/dacapo' | relative_url }})
 - [Bel Ami]({{ '/articles/ami' | relative_url }})
+- [Bakeri]({{ '/articles/bakeri' | relative_url }}) 
+- [Nippon Cha]({{ '/articles/niponcha' | relative_url }})

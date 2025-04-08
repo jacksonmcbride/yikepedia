@@ -15,3 +15,4 @@ Claire somehow has all the best recommendations you could ever imagine. Below ar
 - [Effy's Cafe]({{ '/articles/effys' | relative_url }})
 - [Madame Vo's]({{ '/articles/madame-vos' | relative_url }})
 - [Menkoi Sato]({{ '/articles/menkoi' | relative_url }})
+- [Birds of a Feather]({{ '/articles/birds' | relative_url }})
