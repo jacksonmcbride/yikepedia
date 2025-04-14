@@ -17,3 +17,4 @@ Claire somehow has all the best recommendations you could ever imagine. Below ar
 - [Menkoi Sato]({{ '/articles/menkoi' | relative_url }})
 - [Birds of a Feather]({{ '/articles/birds' | relative_url }})
 - [Martha's Country Bakery]({{ '/articles/marthas' | relative_url }})
+- [Olio e Più]({{ '/articles/olioepiu' | relative_url }})
