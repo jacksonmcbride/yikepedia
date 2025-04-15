@@ -3,7 +3,7 @@ title: Little Island
 layout: default
 image: /assets/img/little-island.jpg
 image_alt: Little Island at sunset
-caption: A peaceful evening at Little Island with Claire
+caption: Sunset at Little Island
 infobox:
   - label: Location
     value: Pier 55, Hudson River Park, New York, NY
@@ -16,6 +16,8 @@ infobox:
   - label: Best Time to Go
     value: Sunset for the best skyline views
 ---
+
+{% include infobox.html %}
 
 # Little Island
 

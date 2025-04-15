@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-<div style="background-color:#ffffcc; border:1px solid #aaa; padding:4px; font-size:12px; font-family:Verdana, Geneva, Tahoma, sans-serif; color:#333; margin-bottom:15px;">
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="white-space:nowrap;">
-    🎉 <strong>Congratulations Claire</strong> on securing the <em>H1B visa</em> — the journey continues 🇺🇸
-  </marquee>
-</div>
 
 # 🐸 Welcome to **Yikepedia**
 
