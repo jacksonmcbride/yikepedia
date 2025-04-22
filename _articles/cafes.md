@@ -18,3 +18,4 @@ Cafes are Claire’s specialty. If she recommends one, you should probably go. H
 - [Bakeri]({{ '/articles/bakeri' | relative_url }}) 
 - [Nippon Cha]({{ '/articles/niponcha' | relative_url }})
 - [Levain Bakery]({{ '/articles/levain' | relative_url }})
+- [Amorino Gelato]({{ '/articles/amorino' | relative_url }})

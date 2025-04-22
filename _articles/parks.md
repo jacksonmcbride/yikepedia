@@ -11,3 +11,4 @@ Claire always knows the best spots to enjoy some fresh air and nature. Below are
 
 ## Nice Spots
 - [Little Island]({{ '/articles/island' | relative_url }})
+- [Central Park]({{ '/articles/centralpark' | relative_url }})
