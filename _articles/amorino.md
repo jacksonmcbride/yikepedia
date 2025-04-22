@@ -21,7 +21,7 @@ infobox:
 
 # Amorino Gelato
 
-Our trip to [Central Park]({{ '/articles/centralpark' | relative_url }}) had already been near-perfect: boats, bikes, brownstones. But Claire, in classic Claire fashion, had another ace up her sleeve. 
+Our trip to [Central Park]({{ '/articles/centralpark' | relative_url }}) had already been near-perfect: boats, bikes, brownstones. But Claire, in classic Claire fashion, had another xace up her sleeve. 
 
 As we were leaving [Central Park]({{ '/articles/centralpark' | relative_url }}), Claire mentioned that she knew a place for gelato nearby. There was something quietly confident about the way she said it—like she’d been saving this idea for the perfect moment. A few blocks later, we were walking through the doors of Amorino Gelato. It wasn’t just a good call—it was one of those unexpectedly perfect additions to the day. Turns out, when Claire says she knows a spot, you listen.
 
