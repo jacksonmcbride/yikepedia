@@ -2,20 +2,101 @@
 title: Cafes
 layout: default
 image: /assets/img/cafes.jpg
-caption: Claire is a cafe expert. You are not going to want to miss these. 
+caption: Claire is a café expert. You are not going to want to miss these.
 ---
 
-# Cafe List
+# Cafés Visited
 
-Cafes are Claire’s specialty. If she recommends one, you should probably go. Her track record is unreasonably strong, and she somehow always finds places that are cozy, charming, and exactly what you didn’t know you needed.
+This page catalogs a curated list of cafés and dessert stops visited in New York City. All locations were selected or co-selected by Claire, whose taste in cafés is consistent, intentional, and well-documented. Each entry links to a corresponding article with a detailed review, including ambiance, notable items, and experience.
 
-## Known Bangers
+---
 
-- [Remi43]({{ '/articles/remi' | relative_url }})
-- [Manjul]({{ '/articles/manjul' | relative_url }})
-- [Da Capo]({{ '/articles/dacapo' | relative_url }})
-- [Bel Ami]({{ '/articles/ami' | relative_url }})
-- [Bakeri]({{ '/articles/bakeri' | relative_url }}) 
-- [Nippon Cha]({{ '/articles/niponcha' | relative_url }})
-- [Levain Bakery]({{ '/articles/levain' | relative_url }})
-- [Amorino Gelato]({{ '/articles/amorino' | relative_url }})
+## Overview
+
+Cafés have served as regular stops during city outings and day trips. While some visits were planned, many followed organically from adjacent activities, such as gallery visits, walks through Central Park, or post-lunch cravings. Locations range from minimalist Japanese tea bars to historic bakeries and multi-use boutique cafés. The reviews emphasize both culinary and atmospheric elements.
+
+---
+
+## Café Listings
+
+### 1. **Bakeries & Dessert-Centric Spots**
+
+- **[Levain Bakery]({{ '/articles/levain' | relative_url }})**  
+  *Location:* 167 W 74th St  
+  *Known for:* Giant cookies, gooey centers  
+  *Rating:* 8/10  
+  A bustling Upper West Side bakery with a near-cult following. Particularly noted for its Chocolate Chip Walnut cookie and nostalgic feel.
+
+- **[Bakeri]({{ '/articles/bakeri' | relative_url }})**  
+  *Location:* 105 Freeman St, Brooklyn  
+  *Known for:* Cinnamon rolls, vintage charm  
+  *Rating:* 8.75/10  
+  A Brooklyn staple with a timeless, Scandinavian-inspired interior. Warm service and strong pastries set it apart.
+
+- **[Bel Ami]({{ '/articles/ami' | relative_url }})**  
+  *Location:* 30 E 68th St  
+  *Known for:* Flaky pastries, quiet atmosphere  
+  *Rating:* 7/10  
+  A small, tucked-away café on the Upper East Side ideal for mid-afternoon breaks following museum or gallery visits.
+
+---
+
+### 2. **Concept Cafés & Stylish Interiors**
+
+- **[Manjul]({{ '/articles/manjul' | relative_url }})**  
+  *Location:* 55 Chrystie St  
+  *Known for:* Pineapple fizz, boutique hybrid model  
+  *Rating:* 8/10  
+  A minimalist café-boutique concept located in the Lower East Side. Notable for its tree-centered layout and fashion-forward drink menu.
+
+- **[Da Capo]({{ '/articles/dacapo' | relative_url }})**  
+  *Location:* 322 Columbus Ave  
+  *Known for:* Coffee by day, cocktails by night  
+  *Rating:* "Worth a summer return"  
+  Dual-function space with espresso offerings in the front and a skylit back room ideal for quiet conversation or reading. Claire-specific appeal noted.
+
+---
+
+### 3. **Floral & Botanical Cafés**
+
+- **[Remi43]({{ '/articles/remi' | relative_url }})**  
+  *Location:* 41 W 43rd St  
+  *Known for:* Lavender latte, floral aesthetic  
+  *Rating:* 5/10 (for seating)  
+  Visually striking café/florist hybrid. Highly recommended for to-go drinks; limited seating availability noted.
+
+---
+
+### 4. **Tea-Focused Locations**
+
+- **[Nippon Cha]({{ '/articles/niponcha' | relative_url }})**  
+  *Location:* 241 E 59th St  
+  *Known for:* Matcha precision, Japanese-style preparation  
+  *Rating:* 6.5/10  
+  A quiet stop specializing in ceremonial-quality matcha beverages. Weighed and whisked with notable attention to detail.
+
+---
+
+### 5. **Dessert Stop (Not a Traditional Café)**
+
+- **[Amorino Gelato]({{ '/articles/amorino' | relative_url }})**  
+  *Location:* 60 University Place  
+  *Known for:* Flower-shaped gelato cones  
+  *Rating:* 7.5/10  
+  A European-style gelateria featuring ornate gelato presentation and signature drizzles. Frequently paired with post-park walks.
+
+---
+
+## Notes
+
+- Reviews are written from firsthand experience and reflect a balance of culinary critique and ambiance.
+- Locations are typically discovered through personal recommendation rather than trending lists or influencer maps.
+- Entries may be updated with revisits or additional menu items tried.
+
+---
+
+## See Also
+
+- [Parks]({{ '/articles/parks' | relative_url }})  
+- [Snacks]({{ '/articles/snacks' | relative_url }})  
+- [Restaurants]({{ '/articles/restaraunts' | relative_url }})
