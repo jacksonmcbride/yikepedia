@@ -82,15 +82,6 @@ Each location has been reviewed based on food quality, ambiance, and the ineffab
   *Rating:* 9.5/10  
   Rustic elegance tucked into the West Village. Every dish felt like it had a story, and the candlelight didn't hurt. Very strong contender for best indoor ambiance—possibly best everything.
 
----
-
-### 4. **Desserts & Sweet Treats**
-
-- **[Van Leeuwen]({{ '/articles/van-leeuwen' | relative_url }})**  
-  *Cuisine:* Artisanal Ice Cream  
-  *Known for:* Earl Grey Tea & Banana-Peanut Butter  
-  *Rating:* 9/10  
-  A perfect post-dinner spot in the East Village. The unique flavors and intimate setting make it ideal for sharing moments and stories. The Earl Grey tea ice cream is a must-try, even if it might taste like soap to some.
 
 ---
 

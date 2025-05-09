@@ -85,6 +85,11 @@ Cafés have served as regular stops during city outings and day trips. While som
   *Rating:* 7.5/10  
   A European-style gelateria featuring ornate gelato presentation and signature drizzles. Frequently paired with post-park walks.
 
+- **[Van Leeuwen]({{ '/articles/van-leeuwen' | relative_url }})**  
+  *Cuisine:* Artisanal Ice Cream  
+  *Known for:* Earl Grey Tea & Banana-Peanut Butter  
+  *Rating:* 9/10  
+  A perfect post-dinner spot in the East Village. The unique flavors and intimate setting make it ideal for sharing moments and stories. The Earl Grey tea ice cream is a must-try, even if it might taste like soap to some.
 ---
 
 ## Notes
