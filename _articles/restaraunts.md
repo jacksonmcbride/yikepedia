@@ -7,9 +7,9 @@ caption: A catalog of Claire-approved restaurants worth remembering.
 
 # Restaurants Visited
 
-This page presents a categorized record of restaurants visited across New York City, primarily selected or inspired by Claire. Each entry links to a detailed review and reflects a shared experience—usually one that started with a casual “I know a place” and ended in a full-blown memory.
+This page presents a categorized record of restaurants visited across New York City, primarily selected or inspired by Claire. Each entry links to a detailed review and reflects a shared experience—usually one that started with a casual "I know a place" and ended in a full-blown memory.
 
-Claire’s taste leans toward the intuitive and occasionally flawless, and this list stands as subtle (and delicious) proof.
+Claire's taste leans toward the intuitive and occasionally flawless, and this list stands as subtle (and delicious) proof.
 
 ---
 
@@ -31,6 +31,13 @@ Each location has been reviewed based on food quality, ambiance, and the ineffab
   *Rating:* 9/10  
   A sleek East Village spot where the Tet noodles might change your life. A surprise find after a night out that somehow felt perfectly planned. Possibly the most memorable noodles of the year.
 
+
+- **[Pylos]({{ '/articles/pylos' | relative_url }})**  
+  *Cuisine:* Greek  
+  *Known for:* Moussaka & Brizola Steak  
+  *Rating:* 8/10  
+  A stylish East Village Greek restaurant with a stunning ceiling of hanging terracotta pots. The elevated comfort food and warm atmosphere make it perfect for a spring evening. The steak is a must-try.
+
 - **[Birds of a Feather]({{ '/articles/birds' | relative_url }})**  
   *Cuisine:* Sichuan Chinese  
   *Known for:* Curiously Tasty Chicken & Poached Wontons  
@@ -41,7 +48,7 @@ Each location has been reviewed based on food quality, ambiance, and the ineffab
   *Cuisine:* Japanese Ramen  
   *Known for:* Curry Ramen & Fried Chicken  
   *Rating:* 8/10  
-  Loud, fast-paced, and incredibly fun. The fried chicken is essential. Bonus points for being on the street that inspired a Taylor Swift song (according to Claire, which means it’s probably true).
+  Loud, fast-paced, and incredibly fun. The fried chicken is essential. Bonus points for being on the street that inspired a Taylor Swift song (according to Claire, which means it's probably true).
 
 ---
 
@@ -63,7 +70,7 @@ Each location has been reviewed based on food quality, ambiance, and the ineffab
   *Cuisine:* Australian Brunch  
   *Known for:* Bronte Burger  
   *Rating:* 7.2/10  
-  Packed, charming, and the kind of place where everyone somehow looks cooler than you. The burger lives up to the hype. The conversations that happened over it might’ve been even better.
+  Packed, charming, and the kind of place where everyone somehow looks cooler than you. The burger lives up to the hype. The conversations that happened over it might've been even better.
 
 ---
 
@@ -73,13 +80,23 @@ Each location has been reviewed based on food quality, ambiance, and the ineffab
   *Cuisine:* Italian Trattoria  
   *Known for:* Spaghetti alla Carbonara & Carpaccio di Polipo  
   *Rating:* 9.5/10  
-  Rustic elegance tucked into the West Village. Every dish felt like it had a story, and the candlelight didn’t hurt. Very strong contender for best indoor ambiance—possibly best everything.
+  Rustic elegance tucked into the West Village. Every dish felt like it had a story, and the candlelight didn't hurt. Very strong contender for best indoor ambiance—possibly best everything.
+
+---
+
+### 4. **Desserts & Sweet Treats**
+
+- **[Van Leeuwen]({{ '/articles/van-leeuwen' | relative_url }})**  
+  *Cuisine:* Artisanal Ice Cream  
+  *Known for:* Earl Grey Tea & Banana-Peanut Butter  
+  *Rating:* 9/10  
+  A perfect post-dinner spot in the East Village. The unique flavors and intimate setting make it ideal for sharing moments and stories. The Earl Grey tea ice cream is a must-try, even if it might taste like soap to some.
 
 ---
 
 ## Notes
 
-- Reviews reflect personal experiences and should not be taken as definitive assessments—though Claire’s taste has yet to be wrong.
+- Reviews reflect personal experiences and should not be taken as definitive assessments—though Claire's taste has yet to be wrong.
 - Scores are subjective, but moments are real.
 - This page is updated as new meals happen, memories are made, and recommendations keep rolling in.
 

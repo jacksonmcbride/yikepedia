@@ -33,6 +33,12 @@ Equal parts circus and speakeasy, Schmucks is a chaotic delight—like walking i
 *Rating:* 9/10  
 Tucked away behind an unmarked door, Angel’s Share offered a sharp contrast to the noise of the city. Every cocktail felt handcrafted with intent. We sat in a cozy corner, surrounded by soft conversation and shadows. The kind of place where everything slows down—where time expands just enough to say exactly what you mean. Claire looked particularly at home here, which made the whole place feel even more like ours, somehow.
 
+### [San Sabino]({{ '/articles/san-sabino' | relative_url }}) 
+  *Cuisine:* Italian-American Seafood  
+  *Known for:* Shrimp Parmesan & Garlic Bread Martini  
+  *Rating:* TBD (Future Visit)  
+  A vibrant West Village spot from the Don Angie team, offering a playful take on coastal Italian-American cuisine. The retro-chic space and inventive menu make it perfect for a special date night.
+
 ---
 
 ## Notes
