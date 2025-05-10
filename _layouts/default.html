@@ -1,34 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8">
-    <link href="https://fonts.googleapis.com/css2?family=Linux+Libertine&display=swap" rel="stylesheet">
-    <title>{{ page.title }} - Yikepedia</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <link rel="icon" type="image/webp" href="{{ '/assets/img/favicon.webp' | relative_url }}">
-  </head>
-  <body>
-    <!-- Top bar -->
-    <div class="top-bar">
-      <h1>
-        <a href="{{ '/' | relative_url }}">
-          <img src="{{ '/assets/img/favicon.webp' | relative_url }}" alt="Yikepedia logo" style="height: 2.4em; vertical-align: middle; margin-right: 0.3em;">
-          Yikepedia
-        </a>
-      </h1>      
-    </div>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+    {% include top-bar.html %}
+    {% include nav.html %}
 
-    <!-- Page layout -->
-    <div class="layout-wrapper">
-      <div class="layout">
-        <aside class="sidebar">
-          {% include nav.html %}
-        </aside>
-    
-        <main class="main-content">
-          {{ content }}
-        </main>
-      </div>
-    </div>    
-  </body>
-</html>
+    <main class="main-content">
+        <div class="layout-wrapper">
+            {{ content }}
+        </div>
+    </main>
+</body>
+</html> 

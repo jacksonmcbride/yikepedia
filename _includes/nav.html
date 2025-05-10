@@ -1,11 +1,80 @@
+<style>
+  .nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    top: 2.5rem;
+    left: 0;
+    width: 250px;
+    height: calc(100vh - 2.5rem);
+    overflow-y: auto;
+    background: #fff7fa;
+    padding: 1rem 2rem 1rem 0;
+    border-right: 1px solid #f3c6db;
+  }
+  .nav-list-item {
+    margin: 0.5rem 0;
+  }
+  .nav-list-link {
+    color: #145a32;
+    text-decoration: none;
+    display: block;
+    padding: 0.3rem 0.5rem;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    font-size: 0.95rem;
+    border-left: 2px solid transparent;
+  }
+  .nav-list-link:visited,
+  .nav-list-link:active,
+  .nav-list-link:focus {
+    color: #145a32;
+  }
+  .nav-list-link:hover {
+    background: #ffe3ef;
+    color: #145a32;
+    border-left: 2px solid #145a32;
+  }
+  .nav-list-link.active {
+    background: #ffe3ef;
+    color: #145a32;
+    border-left: 2px solid #145a32;
+    font-weight: 500;
+  }
+  @media (max-width: 1200px) {
+    .nav-list {
+      width: 200px;
+    }
+  }
+  @media (max-width: 768px) {
+    .nav-list {
+      display: none;
+    }
+  }
+</style>
 <nav>
-  <ul>
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/articles/restaraunts' | relative_url }}">Restraunts</a></li>
-    <li><a href="{{ '/articles/bars' | relative_url }}">Bars</a></li>
-    <li><a href="{{ '/articles/cafes' | relative_url }}">Cafes</a></li>
-    <li><a href="{{ '/articles/museums' | relative_url }}">Museums</a></li>
-    <li><a href="{{ '/articles/parks' | relative_url }}">Parks</a></li>
-    <li><a href="{{ '/articles/meals' | relative_url }}">Home Cooked Meals</a></li>
+  <ul class="nav-list">
+    <li class="nav-list-item">
+      <a class="nav-list-link {% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+    </li>
+    <li class="nav-list-item">
+      <a class="nav-list-link {% if page.url contains '/restaurants' %}active{% endif %}" href="{{ '/restaurants' | relative_url }}">Restaurants</a>
+    </li>
+    <li class="nav-list-item">
+      <a class="nav-list-link {% if page.url contains '/bars' %}active{% endif %}" href="{{ '/bars' | relative_url }}">Bars</a>
+    </li>
+    <li class="nav-list-item">
+      <a class="nav-list-link {% if page.url contains '/cafes' %}active{% endif %}" href="{{ '/cafes' | relative_url }}">Cafes</a>
+    </li>
+    <li class="nav-list-item">
+      <a class="nav-list-link {% if page.url contains '/museums' %}active{% endif %}" href="{{ '/museums' | relative_url }}">Museums</a>
+    </li>
+    <li class="nav-list-item">
+      <a class="nav-list-link {% if page.url contains '/parks' %}active{% endif %}" href="{{ '/parks' | relative_url }}">Parks</a>
+    </li>
+    <li class="nav-list-item">
+      <a class="nav-list-link {% if page.url contains '/meals' %}active{% endif %}" href="{{ '/meals' | relative_url }}">Home Cooked Meals</a>
+    </li>
   </ul>
 </nav>

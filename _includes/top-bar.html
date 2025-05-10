@@ -1,0 +1,45 @@
+<style>
+  .top-bar {
+    background: #fff7fa;
+    border-bottom: 1px solid #f3c6db;
+    padding: 0.7rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  .top-bar-inner {
+    display: flex;
+    align-items: center;
+    padding: 0 2rem;
+  }
+  .top-bar-logo {
+    height: 2.1em;
+    margin-right: 0.7em;
+    vertical-align: middle;
+  }
+  .top-bar-title {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: #145a32;
+    letter-spacing: 0.02em;
+    margin: 0;
+    line-height: 1.1;
+  }
+  @media (max-width: 600px) {
+    .top-bar-inner {
+      padding: 0 0.7rem;
+    }
+    .top-bar-title {
+      font-size: 1.1rem;
+    }
+  }
+</style>
+<div class="top-bar">
+  <div class="top-bar-inner">
+    <a href="{{ '/' | relative_url }}" style="display: flex; align-items: center; text-decoration: none;">
+      <img class="top-bar-logo" src="{{ '/assets/img/favicon.webp' | relative_url }}" alt="Yikepedia logo">
+      <span class="top-bar-title">Yikepedia</span>
+    </a>
+  </div>
+</div> 

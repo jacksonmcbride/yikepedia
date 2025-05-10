@@ -10,6 +10,9 @@ collections:
   articles:
     output: true
     permalink: /:collection/:name
+  pages:
+    output: true
+    permalink: /:name
 
 # Default layout for collection items
 defaults:
@@ -18,6 +21,12 @@ defaults:
       type: articles
     values:
       layout: default
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: default
+      nav_order: 1
 
 # Markdown engine
 markdown: kramdown

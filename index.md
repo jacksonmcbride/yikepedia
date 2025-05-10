@@ -17,12 +17,12 @@ Does Claire give you some fire reccomendations? Do you find yourself taking note
 ## Contents
 
 <div class="sections-nav">
-  • <a class="section-link" href="{{ '/articles/restaraunts' | relative_url }}"> Restaurants</a> •
-  <a class="section-link" href="{{ '/articles/cafes' | relative_url }}"> Cafes</a> •
-  <a class="section-link" href="{{ '/articles/bars' | relative_url }}"> Bars</a> •
-  <a class="section-link" href="{{ '/articles/museums' | relative_url }}"> Museums</a> • 
-  <a class="section-link" href="{{ '/articles/parks' | relative_url }}"> Parks</a> •
-  <a class="section-link" href="{{ '/articles/meals' | relative_url }}"> Home Cooked Meals</a>
+  • <a class="section-link" href="{{ '/restaurants' | relative_url }}"> Restaurants</a> •
+  <a class="section-link" href="{{ '/cafes' | relative_url }}"> Cafes</a> •
+  <a class="section-link" href="{{ '/bars' | relative_url }}"> Bars</a> •
+  <a class="section-link" href="{{ '/museums' | relative_url }}"> Museums</a> • 
+  <a class="section-link" href="{{ '/parks' | relative_url }}"> Parks</a> •
+  <a class="section-link" href="{{ '/meals' | relative_url }}"> Home Cooked Meals</a>
 </div>
 
 ---

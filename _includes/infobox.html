@@ -1,23 +1,113 @@
 <div class="infobox">
-    {% if page.image %}
-      <div class="infobox-image">
-        <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}">
-      </div>
-    {% endif %}
-  
-    {% if page.caption %}
-      <div class="infobox-caption">
-        {{ page.caption }}
-      </div>
-    {% endif %}
-  
-    <table class="infobox-table">
-      {% for row in page.infobox %}
-        <tr>
-          <th>{{ row.label }}</th>
-          <td>{{ row.value }}</td>
-        </tr>
-      {% endfor %}
-    </table>
+  <style>
+    .infobox {
+      float: right;
+      width: 340px;
+      margin: 0 0 1.2rem 1.2rem;
+      background: #fffafd;
+      border: 1.5px solid #0b2e13;
+      border-radius: 2px;
+      font-family: 'Georgia', 'Times New Roman', serif;
+      font-size: 0.89rem;
+      overflow: hidden;
+    }
+    .infobox-header {
+      background: #0b2e13;
+      color: #fffafd;
+      font-size: 1.05rem;
+      font-weight: bold;
+      text-align: center;
+      padding: 0.4rem 0.7rem;
+      border-bottom: 1px solid #0b2e13;
+    }
+    .infobox-image {
+      width: 100%;
+      aspect-ratio: 3/2;
+      background: #fff;
+      overflow: hidden;
+      border-bottom: 1px solid #0b2e13;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .infobox-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      background: #fff;
+    }
+    .infobox-caption {
+      font-size: 0.87rem;
+      color: #0b2e13;
+      background: none;
+      padding: 0.3rem 0.7rem;
+      margin-bottom: 0;
+      font-style: italic;
+      border-left: 2px solid #0b2e13;
+      line-height: 1.3;
+    }
+    .infobox-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.89rem;
+      margin: 0.1rem 0 0.1rem 0;
+    }
+    .infobox-table th {
+      text-align: left;
+      padding: 0.3rem 0.3rem 0.3rem 0.7rem;
+      font-weight: 600;
+      color: #0b2e13;
+      background: #fffafd;
+      border-bottom: 1px solid #0b2e13;
+      width: 40%;
+      font-family: 'Georgia', 'Times New Roman', serif;
+    }
+    .infobox-table td {
+      padding: 0.3rem 0.7rem 0.3rem 0.3rem;
+      border-bottom: 1px solid #0b2e13;
+      color: #222;
+      background: #fffafd;
+      font-family: 'Georgia', 'Times New Roman', serif;
+    }
+    .infobox-table tr:last-child th,
+    .infobox-table tr:last-child td {
+      border-bottom: none;
+    }
+    .infobox-table a {
+      color: #0b2e13;
+      text-decoration: underline dotted #0b2e13 1.2px;
+      transition: color 0.2s;
+    }
+    .infobox-table a:hover {
+      color: #145a32;
+      text-decoration: underline solid #145a32 1.5px;
+    }
+  </style>
+
+  <div class="infobox-header">{{ page.title }}</div>
+
+  {% if page.image %}
+  <div class="infobox-image">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}">
   </div>
+  {% endif %}
+
+  {% if page.caption %}
+  <div class="infobox-caption">
+    {{ page.caption }}
+  </div>
+  {% endif %}
+
+  {% if page.infobox %}
+  <table class="infobox-table">
+    {% for item in page.infobox %}
+    <tr>
+      <th>{{ item.label }}</th>
+      <td>{{ item.value }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% endif %}
+</div>
   
