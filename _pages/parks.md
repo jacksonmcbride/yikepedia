@@ -25,15 +25,6 @@ Claire has an eye for these spaces—the kind of places where the city quiets ju
 
 The parks listed below offer a blend of architectural interest, skyline views, and reflective calm. Whether rowing through still waters or improvising music on public chimes, each visit served as both an escape and a reminder that time moves differently when you're with the right person.
 
-## Featured Parks
-
-{% assign park_articles = site.articles | where: "category", "park" %}
-{% for article in park_articles %}
-- [{{ article.title }}]({{ article.url | relative_url }}) - {{ article.description }}
-{% endfor %}
-
-## Categories
-
 ### Iconic Parks
 
 - **[Central Park]({{ '/articles/centralpark' | relative_url }})**  

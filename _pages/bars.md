@@ -25,14 +25,7 @@ While some venues here are loud and chaotic (on purpose), others invite a slower
 
 Bars included below range from theatrical cocktail dens to vintage-feeling hideaways. Each one brought something different to the table—sometimes literally—and the reviews reflect not just what was served, but what the night *felt* like.
 
-## Featured Bars
 
-{% assign bar_articles = site.articles | where: "category", "bar" %}
-{% for article in bar_articles %}
-- [{{ article.title }}]({{ article.url | relative_url }}) - {{ article.description }}
-{% endfor %}
-
-## Categories
 
 ### Cocktail Bars
 

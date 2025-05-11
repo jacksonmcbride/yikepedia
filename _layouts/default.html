@@ -8,12 +8,13 @@
 </head>
 <body>
     {% include top-bar.html %}
-    {% include nav.html %}
-
-    <main class="main-content">
-        <div class="layout-wrapper">
-            {{ content }}
-        </div>
-    </main>
+    <div style="padding-top: 3.5rem;">
+        {% include nav.html %}
+        <main class="main-content">
+            <div class="layout-wrapper">
+                {{ content }}
+            </div>
+        </main>
+    </div>
 </body>
 </html> 

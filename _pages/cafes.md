@@ -24,14 +24,6 @@ This page catalogs a curated list of cafés and dessert stops visited in New Yor
 
 Cafés have served as regular stops during city outings and day trips. While some visits were planned, many followed organically from adjacent activities, such as gallery visits, walks through Central Park, or post-lunch cravings. Locations range from minimalist Japanese tea bars to historic bakeries and multi-use boutique cafés. The reviews emphasize both culinary and atmospheric elements.
 
-## Featured Cafes
-
-{% assign cafe_articles = site.articles | where: "category", "cafe" %}
-{% for article in cafe_articles %}
-- [{{ article.title }}]({{ article.url | relative_url }}) - {{ article.description }}
-{% endfor %}
-
-## Categories
 
 ### 1. **Bakeries & Dessert-Centric Spots**
 

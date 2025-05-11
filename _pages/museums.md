@@ -23,14 +23,6 @@ This page catalogs museums and galleries visited across New York City, from worl
 
 The museums and galleries listed here range from established institutions to contemporary art spaces. Each venue has been selected for its unique offerings, whether it's the permanent collection, special exhibitions, or the overall experience.
 
-## Featured Museums
-
-{% assign museum_articles = site.articles | where: "category", "museum" %}
-{% for article in museum_articles %}
-- [{{ article.title }}]({{ article.url | relative_url }}) - {{ article.description }}
-{% endfor %}
-
-## Categories
 
 ### Art Galleries
 

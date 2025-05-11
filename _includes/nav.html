@@ -9,35 +9,35 @@
     width: 250px;
     height: calc(100vh - 2.5rem);
     overflow-y: auto;
-    background: #fff7fa;
-    padding: 1rem 2rem 1rem 0;
-    border-right: 1px solid #f3c6db;
+    background: linear-gradient(to bottom, #f8edeb 0%, #e8e8e4 100%);
+    padding: 1rem 0 1rem 0;
+    border-right: 1px solid #e8e8e4;
   }
   .nav-list-item {
     margin: 0.5rem 0;
   }
-  .nav-list-link {
+  .nav-list-link,
+  .nav-list-link:visited,
+  .nav-list-link:active,
+  .nav-list-link:focus {
     color: #145a32;
     text-decoration: none;
     display: block;
+    width: 100%;
+    box-sizing: border-box;
     padding: 0.3rem 0.5rem;
     border-radius: 4px;
     transition: all 0.2s ease;
     font-size: 0.95rem;
     border-left: 2px solid transparent;
   }
-  .nav-list-link:visited,
-  .nav-list-link:active,
-  .nav-list-link:focus {
-    color: #145a32;
-  }
   .nav-list-link:hover {
-    background: #ffe3ef;
+    background: #d8e2dc;
     color: #145a32;
     border-left: 2px solid #145a32;
   }
   .nav-list-link.active {
-    background: #ffe3ef;
+    background: #d8e2dc;
     color: #145a32;
     border-left: 2px solid #145a32;
     font-weight: 500;

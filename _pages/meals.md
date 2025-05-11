@@ -21,13 +21,6 @@ Claire's kitchen creations are not just meals—they're small, flavorful moments
 
 This page serves as an index of the meals Claire has prepared, cataloged for posterity and future cravings.
 
-## Featured Meals
-
-{% assign meal_articles = site.articles | where: "category", "meal" %}
-{% for article in meal_articles %}
-- [{{ article.title }}]({{ article.url | relative_url }}) - {{ article.description }}
-{% endfor %}
-
 ## Recent Meals
 
 ### April 18, 2025
@@ -35,13 +28,6 @@ This page serves as an index of the meals Claire has prepared, cataloged for pos
 - **[Drumsticks, Brussels Sprouts, and Shrimp]({{ '/articles/drumsticks-041825' | relative_url }})**
   A hearty trio that balanced comfort and complexity. The drumsticks were seasoned to perfection—crispy on the outside, juicy on the inside. The brussels sprouts added a caramelized crunch, and the shrimp, lightly spiced, brought in a surprising brightness. A particularly well-rounded meal that showcased Claire's ability to cook across textures and proteins with ease.
 
-## Categories
-
-- [Breakfast](#breakfast)
-- [Lunch](#lunch)
-- [Dinner](#dinner)
-- [Snacks](#snacks)
-- [Special Occasions](#special-occasions)
 
 ## Notes
 
