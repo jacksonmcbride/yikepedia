@@ -27,7 +27,7 @@ The parks listed below offer a blend of architectural interest, skyline views, a
 
 ### Iconic Parks
 
-- **[Central Park]({{ '/articles/centralpark' | relative_url }})**  
+- **[Central Park]({{ '/articles/parks/centralpark' | relative_url }})**  
   *Location:* Central Park, Manhattan  
   *Known for:* Row boats, Citibikes, spring light  
   *Rating:* 8.5/10  
@@ -35,7 +35,7 @@ The parks listed below offer a blend of architectural interest, skyline views, a
 
 ### Modern Spaces
 
-- **[Little Island]({{ '/articles/island' | relative_url }})**  
+- **[Little Island]({{ '/articles/parks/island' | relative_url }})**  
   *Location:* Pier 55, Hudson River Park  
   *Known for:* Sunset skyline views, floating gardens  
   *Rating:* 7/10  

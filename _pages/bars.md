@@ -29,7 +29,7 @@ Bars included below range from theatrical cocktail dens to vintage-feeling hidea
 
 ### Cocktail Bars
 
-- **[Schmucks]({{ '/articles/schmucks' | relative_url }})**  
+- **[Schmucks]({{ '/articles/bars/schmucks' | relative_url }})**  
   *Location:* 97 First Ave, East Village  
   *Known for:* Maximalist cocktails, space-age interiors  
   *Rating:* 7.5/10  
@@ -37,7 +37,7 @@ Bars included below range from theatrical cocktail dens to vintage-feeling hidea
 
 ### Hidden Gems
 
-- **[Angel's Share]({{ '/articles/share' | relative_url }})**  
+- **[Angel's Share]({{ '/articles/bars/share' | relative_url }})**  
   *Location:* Secret (but you can probably find it)  
   *Known for:* Discreet entrance, precise cocktails, jazz-adjacent ambiance  
   *Rating:* 9/10  
@@ -45,7 +45,7 @@ Bars included below range from theatrical cocktail dens to vintage-feeling hidea
 
 ### Restaurant Bars
 
-- **[San Sabino]({{ '/articles/san-sabino' | relative_url }})** 
+- **[San Sabino]({{ '/articles/bars/san-sabino' | relative_url }})** 
   *Cuisine:* Italian-American Seafood  
   *Known for:* Shrimp Parmesan & Garlic Bread Martini  
   *Rating:* TBD (Future Visit)  

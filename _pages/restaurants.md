@@ -24,31 +24,31 @@ Each location has been reviewed based on food quality, ambiance, and the ineffab
 
 ### 1. **Modern & Global Cuisine**
 
-- **[La Mercerie]({{ '/articles/la-mercerie' | relative_url }})**  
+- **[La Mercerie]({{ '/articles/restaurants/la-mercerie' | relative_url }})**  
   *Cuisine:* French Café & Restaurant  
   *Known for:* Buckwheat Crêpe Complète & Quiche  
   *Rating:* 8.5/10  
   A sophisticated French café within the Roman and Williams Guild. The space seamlessly blends high-end furniture with dining, creating a unique atmosphere. The quiche is a must-try, and the crêpe complète offers a perfect balance of flavors.
 
-- **[Tournesol]({{ '/articles/tournesol' | relative_url }})**  
+- **[Tournesol]({{ '/articles/restaurants/tournesol' | relative_url }})**  
   *Cuisine:* French Bistro  
   *Known for:* Duck Breast & Escargot  
   *Rating:* 8.75/10  
   A charming slice of Paris in Long Island City. The intimate setting and authentic French cuisine make it a perfect spot for a romantic dinner. The duck breast is a revelation, and the escargot is not to be missed.
 
-- **[Madame Vo]({{ '/articles/madame-vos' | relative_url }})**  
+- **[Madame Vo]({{ '/articles/restaurants/madame-vos' | relative_url }})**  
   *Cuisine:* Modern Vietnamese  
   *Known for:* Tet Noodles & Beef Pho  
   *Rating:* 9/10  
   A sleek East Village spot where the Tet noodles might change your life. A surprise find after a night out that somehow felt perfectly planned. Possibly the most memorable noodles of the year.
 
-- **[Pylos]({{ '/articles/pylos' | relative_url }})**  
+- **[Pylos]({{ '/articles/restaurants/pylos' | relative_url }})**  
   *Cuisine:* Greek  
   *Known for:* Moussaka & Brizola Steak  
   *Rating:* 8/10  
   A stylish East Village Greek restaurant with a stunning ceiling of hanging terracotta pots. The elevated comfort food and warm atmosphere make it perfect for a spring evening. The steak is a must-try.
 
-- **[Birds of a Feather]({{ '/articles/birds' | relative_url }})**  
+- **[Birds of a Feather]({{ '/articles/restaurants/birds' | relative_url }})**  
   *Cuisine:* Sichuan Chinese  
   *Known for:* Curiously Tasty Chicken & Poached Wontons  
   *Rating:* 9/10  

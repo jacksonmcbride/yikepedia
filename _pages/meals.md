@@ -25,7 +25,7 @@ This page serves as an index of the meals Claire has prepared, cataloged for pos
 
 ### April 18, 2025
 
-- **[Drumsticks, Brussels Sprouts, and Shrimp]({{ '/articles/drumsticks-041825' | relative_url }})**
+- **[Drumsticks, Brussels Sprouts, and Shrimp]({{ '/articles/meals/drumsticks-041825' | relative_url }})**
   A hearty trio that balanced comfort and complexity. The drumsticks were seasoned to perfection—crispy on the outside, juicy on the inside. The brussels sprouts added a caramelized crunch, and the shrimp, lightly spiced, brought in a surprising brightness. A particularly well-rounded meal that showcased Claire's ability to cook across textures and proteins with ease.
 
 

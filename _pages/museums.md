@@ -26,7 +26,7 @@ The museums and galleries listed here range from established institutions to con
 
 ### Art Galleries
 
-- **[Levy Gorvy Dayan]({{ '/articles/levygorvy' | relative_url }})**
+- **[Levy Gorvy Dayan]({{ '/articles/museums/levygorvy' | relative_url }})**
   *Location:* 909 Madison Avenue
   *Known for:* Contemporary art exhibitions
   *Rating:* TBD
