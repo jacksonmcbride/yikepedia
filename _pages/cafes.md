@@ -45,6 +45,12 @@ Cafés have served as regular stops during city outings and day trips. While som
   *Rating:* 7/10  
   A small, tucked-away café on the Upper East Side ideal for mid-afternoon breaks following museum or gallery visits.
 
+- **[Café Bilboquet]({{ '/articles/bilbo' | relative_url }})**  
+  *Location:* 25 E 63rd St  
+  *Known for:* Pistachio croissants, French pastries  
+  *Rating:* 8/10  
+  The casual offshoot of Le Bilboquet French bistro, offering refined patisserie in a cozy, vintage-inspired setting. Perfect for elegant coffee breaks and quality French pastries.
+
 ### 2. **Concept Cafés & Stylish Interiors**
 
 - **[ENLY Café]({{ '/articles/enly' | relative_url }})**  
@@ -65,7 +71,15 @@ Cafés have served as regular stops during city outings and day trips. While som
   *Rating:* "Worth a summer return"  
   Dual-function space with espresso offerings in the front and a skylit back room ideal for quiet conversation or reading. Claire-specific appeal noted.
 
-### 3. **Floral & Botanical Cafés**
+### 3. **Modern Coffee Chains & Innovation**
+
+- **[Cotti Coffee]({{ '/articles/cotti' | relative_url }})**  
+  *Location:* Multiple locations globally  
+  *Known for:* Ultra-affordable coffee, innovative drinks  
+  *Rating:* 8.5/10  
+  A rapidly growing coffee chain disrupting the market with accessible pricing and creative beverage options. Notable for its americano with grapefruit juice and jasmine tea latte.
+
+### 4. **Floral & Botanical Cafés**
 
 - **[Remi43]({{ '/articles/remi' | relative_url }})**  
   *Location:* 41 W 43rd St  
@@ -73,7 +87,7 @@ Cafés have served as regular stops during city outings and day trips. While som
   *Rating:* 5/10 (for seating)  
   Visually striking café/florist hybrid. Highly recommended for to-go drinks; limited seating availability noted.
 
-### 4. **Tea-Focused Locations**
+### 5. **Tea-Focused Locations**
 
 - **[Nippon Cha]({{ '/articles/niponcha' | relative_url }})**  
   *Location:* 241 E 59th St  
@@ -81,7 +95,7 @@ Cafés have served as regular stops during city outings and day trips. While som
   *Rating:* 6.5/10  
   A quiet stop specializing in ceremonial-quality matcha beverages. Weighed and whisked with notable attention to detail.
 
-### 5. **Dessert Stop (Not a Traditional Café)**
+### 6. **Dessert Stop (Not a Traditional Café)**
 
 - **[Amorino Gelato]({{ '/articles/amorino' | relative_url }})**  
   *Location:* 60 University Place  
